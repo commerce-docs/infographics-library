@@ -1,17 +1,3 @@
-/_site/
-/.sass-cache/
-/vendor/
-/.bundle/
-/.asset-cache/
-/Gemfile.lock
-/.jekyll-metadata
-.idea
-xsdvi.log
-/node_modules/
-npm-debug.log
-CNAME
-_config.local.yml
-
 # OS generated files #
 ######################
 .DS_Store
@@ -22,4 +8,5 @@ _config.local.yml
 .Trashes
 ehthumbs.db
 Thumbs.db
+.idea/
 .idea
