@@ -9,8 +9,8 @@ Currently there are two library files (`diagramming-library.xml` and `icons-libr
 The two links below will automatically open a draw.io artboard with both libraries opened for use.  
 
 **Starter diagram (blank canvas):**
-https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdiagramming-library.xml;https://www.draw.io/?splash=0&clibs=Uhttps://raw.githubusercontent.com/magento-devdocs/infographics-library/master/icons-library.xml
+https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdiagramming-library.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Ficons-library.xml
 
 **Sample diagram:**
-https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdiagramming-library.xml;https://www.draw.io/?splash=0&clibs=Uhttps://raw.githubusercontent.com/magento-devdocs/infographics-library/master/icons-library.xml;https://www.draw.io/?splash=0&clibs=Uhttps://raw.githubusercontent.com/magento-devdocs/infographics-library/master/infographics-sample.xml
+https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdiagramming-library.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Ficons-library.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Finfographics-sample.xml
 
