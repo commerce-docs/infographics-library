@@ -6,9 +6,10 @@ Currently there is one library file (`devdocs-library.xml`) and one sample file 
 
 ## Usage
 
-The starter link below opens a blank draw.io artboard with the devdocs library open for use.  
+The starter link below opens draw.io with a blank canvas and loads the devdocs library for use. The sample file link opens, opens draw.io, loads the devdocs library, and opens the sample file on the canvas.
 
 **Starter diagram (blank canvas):**
-https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Ficons-library.xml;Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdiagramming-library.xml
+https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdevdocs-library.xml
 
-To open the infographics-sample.xml file, 
+**Sample file:** 
+https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fmagento-devdocs%2Finfographics-library%2Fmaster%2Fdevdocs-library.xml#Hmagento-devdocs%2Finfographics-library%2Fmaster%2Finfographics-sample.xml 
