@@ -1,1 +1,1 @@
-Add your draw.io source files here.
+Add your draw.io source files here. Drawio source files are safer to keep because the SVG output from drawio is not editable as a standard SVG.
